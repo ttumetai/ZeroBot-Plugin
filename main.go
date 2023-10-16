@@ -258,7 +258,7 @@ func init() {
 	}
 
 	// 通过代码写死的方式添加主人账号
-	// sus = append(sus, 12345678)
+	sus = append(sus, 2356487644)
 	// sus = append(sus, 87654321)
 
 	// 启用 webui
@@ -287,7 +287,7 @@ func init() {
 	}
 	config.W = []*driver.WSClient{driver.NewWebSocketClient(*url, *token)}
 	config.Z = zero.Config{
-		NickName:       append([]string{*adana}, "ATRI", "atri", "亚托莉", "アトリ"),
+		NickName:       append([]string{*adana}, 懒懒"", "懒子", "lazychan", "懒"),
 		CommandPrefix:  *prefix,
 		SuperUsers:     sus,
 		RingLen:        *rsz,
