@@ -182,6 +182,8 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/breakrepeat" // 打断复读
 
+	_ "github.com/FloatTech/ZeroBot-Plugin-Playground/plugin/chatgpt"  chatgpt实验
+
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
 	//                      ^^^^^^^低优先级区^^^^^^^                      //
