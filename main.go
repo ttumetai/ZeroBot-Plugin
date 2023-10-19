@@ -155,7 +155,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"            // 月幕galgame
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chatgpt"          // chatgpt实验
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/kokomi"		//星穹铁道面板
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/subweibo"		//关注微博
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/subweibo"		 //关注微博
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtbwife"		//vtb
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"           // 鬼东西
